@@ -10,4 +10,4 @@ What Skills will be shown?
 
 After project
 
-* 
+* i learnt how to properly use what i priviousely learned and realized how to properly use git 
